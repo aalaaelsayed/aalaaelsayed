@@ -23,8 +23,6 @@ If you'd like to discuss any potential collaboration or have any questions, feel
 
 - Email: aalaaelsayed95@gmail.com
 - LinkedIn: [linkedin.com/in/aalaa](www.linkedin.com/in/aalaa-elsayed-9b75a3215)
-- Twitter: [[@AalaaDev]]([https://twitter.com/AalaaaDev](https://twitter.com/AAlaa_Elsayed27))
-
 I'm always eager to learn and grow, and I'm excited to connect with like-minded developers in the Laravel and web development community.
 
 Thank you for visiting my profile!
