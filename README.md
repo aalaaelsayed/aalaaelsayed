@@ -5,13 +5,13 @@ I'm a back-end website developer with a strong focus on building robust and scal
 ## Skills and Technologies
 - **Programming Languages**: PHP, SQL
 - **Framework**: Laravel
-- **Other Tools**: RESTful APIs, Git, GitHub, Composer
+- **Other Tools**:  APIs, Git, GitHub, Composer
 
 ## Projects
 Here are some of the notable projects I've worked on:
 
 1. **E-commerce Platform**: Developed a comprehensive e-commerce platform using Laravel, including features like product management, shopping carts, and order processing.
-2. **API-based Blog**: Built a RESTful API-powered blog application, allowing users to create, read, update, and delete posts, comments, and user profiles.
+2. **API-based Blog**: Built a  API-powered blog application, allowing users to create, read, update, and delete posts, comments, and user profiles.
 3. **Event Management System**: Designed and implemented a Laravel-based event management system, including features for event creation, ticket sales, and attendee management.
 
 ## Certifications and Achievements
