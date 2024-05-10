@@ -1,15 +1,8 @@
-### Hi there 👋,  I'm Aalaa!
-#### back-end laravel developer
-I'm a back-end website developer with a strong focus on building robust and scalable web applications using the Laravel framework. With my expertise in PHP and Laravel, I enjoy creating efficient and maintainable server-side solutions.
-
-Skills:  HTML / PHP / SQL
-
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aalaaelsayed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aalaa-elsayed-9b75a3215//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Aalaa.elsayadabdo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AAlaa_Elsayed27)  
 <?php
 $name ="Aalaa El-sayed El-sayed";
-$img ="image.png";
+$img ="https://avatars.githubusercontent.com/u/146981656?v=4";
 $mobile ="01128550010";
 $email ="aalaaelsayed95@gmail.com";
 ?>
@@ -162,7 +155,6 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
   <i class="fa fa-pinterest-p w3-hover-opacity"></i>
   <i class="fa fa-twitter w3-hover-opacity"></i>
   <i class="fa fa-linkedin w3-hover-opacity"></i>
-  <p> Egyptiancouncil <a href="https://www.egyptiancouncil.com/" target="_blank">CTD.css</a></p>
 </footer>
 
 </body>
