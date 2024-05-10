@@ -26,17 +26,17 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-display-container">
           <img src="https://avatars.githubusercontent.com/u/146981656?v=4" style="width:100%" alt="photo girl">
           <div class="w3-display-bottomleft w3-container w3-text-black">
-            <h2> <?php echo $name; ?> </h2>
+            <h2> Aalaa Elsayed </h2>
             <!--the scoend way-->
-           <!-- <h2> <?=  $name ?> </h2> -->
+           <!-- <h2> aalaa elsayed </h2> -->
 
           </div>
         </div>
         <div class="w3-container">
           <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>progrmmer</p>
           <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>portsaid, EG</p>
-          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i><?php echo $email; ?></p>
-          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i><?php echo $mobile; ?></p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>aalaaelsayed95@gmail.com</p>
+          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>01128550010</p>
           <hr>
 
           <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>My Skills</b></p>
