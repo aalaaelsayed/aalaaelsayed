@@ -1,28 +1,14 @@
-# Hello, I'm Aalaa! 👋
-
+### Hi there 👋,  I'm Aalaa!
+#### back-end laravel developer
 I'm a back-end website developer with a strong focus on building robust and scalable web applications using the Laravel framework. With my expertise in PHP and Laravel, I enjoy creating efficient and maintainable server-side solutions.
 
-## Skills and Technologies
-- **Programming Languages**: PHP, SQL
-- **Framework**: Laravel
-- **Other Tools**:  APIs, Git, GitHub, Composer
+Skills:  HTML / PHP / SQL
 
-## Projects
-Here are some of the notable projects I've worked on:
 
-1. **E-commerce Platform**: Developed a comprehensive e-commerce platform using Laravel, including features like product management, shopping carts, and order processing.
-2. **API-based Blog**: Built a  API-powered blog application, allowing users to create, read, update, and delete posts, comments, and user profiles.
-3. **Event Management System**: Designed and implemented a Laravel-based event management system, including features for event creation, ticket sales, and attendee management.
 
-## Certifications and Achievements
-- **Laravel Certified Developer** (2024)
-- **PHP Certification**  (2023)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/aalaaelsayed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aalaa-elsayed-9b75a3215//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/Aalaa.elsayadabdo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/AAlaa_Elsayed27)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aalaaelsayed.github.io/)  
 
-## Get in Touch
-If you'd like to discuss any potential collaboration or have any questions, feel free to reach out to me:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/aalaaelsayed)](https://github.com/anuraghazra/github-readme-stats)
 
-- Email: aalaaelsayed95@gmail.com
-- LinkedIn: [linkedin.com/in/aalaa](www.linkedin.com/in/aalaa-elsayed-9b75a3215)
-I'm always eager to learn and grow, and I'm excited to connect with like-minded developers in the Laravel and web development community.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/aalaaelsayed&show_icons=true)  
 
-Thank you for visiting my profile!
