@@ -1,13 +1,3 @@
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aalaaelsayed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aalaa-elsayed-9b75a3215//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Aalaa.elsayadabdo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AAlaa_Elsayed27)  
-<?php
-$name ="Aalaa El-sayed El-sayed";
-$img ="https://avatars.githubusercontent.com/u/146981656?v=4";
-$mobile ="01128550010";
-$email ="aalaaelsayed95@gmail.com";
-?>
-
-
 <!DOCTYPE html>
 <html>
 <head>
